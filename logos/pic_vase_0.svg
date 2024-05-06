@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 27.5.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1800 800" style="enable-background:new 0 0 1800 800;" xml:space="preserve">
+<style type="text/css">
+	.st0{display:none;}
+	.st1{display:inline;fill:#FFFFFF;stroke:#000000;stroke-width:10;stroke-miterlimit:10;}
+	.st2{display:inline;fill:#FFFFFF;stroke:#000000;stroke-width:10;stroke-linejoin:bevel;stroke-miterlimit:10;}
+	.st3{display:inline;fill:none;stroke:#000000;stroke-width:10;stroke-miterlimit:10;}
+	.st4{fill:#FFFFFF;stroke:#000000;stroke-width:10;stroke-miterlimit:10;}
+	.st5{fill:none;stroke:#000000;stroke-width:10;stroke-miterlimit:10;}
+</style>
+<g id="图层_1" class="st0">
+	<rect x="1002.96" y="316.39" class="st1" width="33.06" height="317.35"/>
+	<rect x="758.6" y="316.39" class="st1" width="33.06" height="317.35"/>
+	<polyline class="st1" points="725.69,407.12 725.69,442.9 1069.43,442.9 1069.43,408.15 	"/>
+	<rect x="725.49" y="442.9" class="st1" width="33.06" height="317.35"/>
+	<rect x="1036.19" y="443.06" class="st1" width="33.06" height="317.35"/>
+	<rect x="758.1" y="38.91" class="st1" width="277.68" height="277.68"/>
+	<path class="st2" d="M1075.47,429.77"/>
+	<polyline class="st2" points="725.25,412.16 758.92,316.59 1036.1,316.59 1069.27,411.95 	"/>
+	<line class="st3" x1="1069.43" y1="411.89" x2="724.49" y2="411.89"/>
+</g>
+<g id="图层_2">
+	<path class="st4" d="M877,154c0.89-2.6,6.23-18.12,18-19c7.59-0.57,15.36,5.13,18,12c3.69,9.58-3.87,18.1-7,27
+		c-10.32,29.36,32.01,50.36,41,98c4.78,25.33,0.98,62.68-23,79c-15.33,10.43-42.47,14.7-56,2c-29.83-28,26.3-119.95,10-169
+		C876.97,180.9,872.26,167.78,877,154z"/>
+	<path class="st5" d="M878,148.87c2.97,15.14,16.63,22.27,25,19.13c6.34-2.38,10.85-11.1,10-21"/>
+</g>
+</svg>

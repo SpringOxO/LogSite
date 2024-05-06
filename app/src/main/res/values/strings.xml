@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LogSite</string>
+    <string name="title_home">Home</string>
+    <string name="title_views">Views</string>
+    <string name="title_notes">Notes</string>
+    <string name="note_delete">Delete</string>
+    <string name="search_mode">SearchMode</string>
+    <string name="search_box">SearchBox</string>
+    <string name="add_a_new_tag">Add a new tag...</string>
+    <string name="insert_link">Insert link</string>
+</resources>

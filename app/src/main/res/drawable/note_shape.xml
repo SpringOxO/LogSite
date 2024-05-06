@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+<!--    这个方案好像是个不好的方案（把一些drawable叠起来），我觉得还是用点九图好些，不管它了  -->
+    <item>
+        <shape android:shape="rectangle">
+            <solid android:color="?attr/lvBackground"/>
+        </shape>
+    </item>
+
+</layer-list>

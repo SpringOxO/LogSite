@@ -1,0 +1,156 @@
+文件夹 PATH 列表
+卷序列号为 8658-6627
+E:.
+│  AndroidManifest.xml
+│  ic_launcher-playstore.png
+│  result.txt
+│  
+├─java
+│  └─com
+│      └─example
+│          └─logsite
+│              │  EditorManager.java
+│              │  MainActivity.java
+│              │  
+│              ├─adapter
+│              │  ├─noteadapter
+│              │  │      NoteAdapter.java
+│              │  │      NoteDecoration.java
+│              │  │      NoteTouchListener.java
+│              │  │      
+│              │  ├─selectnoteadapter
+│              │  │      SelectNoteAdapter.java
+│              │  │      SelectNoteTouchListener.java
+│              │  │      
+│              │  └─tagadapter
+│              │          TagAdapter.java
+│              │          
+│              ├─database
+│              │      CRUD.java
+│              │      Note.java
+│              │      NotesDataBase.java
+│              │      
+│              ├─editor
+│              │      DataBindingSpan.java
+│              │      EditorActivity.java
+│              │      EditorTitleBar.java
+│              │      LinkDrawable.java
+│              │      LinkSpan.java
+│              │      TagEditText.java
+│              │      
+│              ├─noteselector
+│              │      NoteSelectorActivity.java
+│              │      NoteSelectorTitleBar.java
+│              │      
+│              └─ui
+│                  ├─home
+│                  │      HomeFragment.java
+│                  │      HomeViewModel.java
+│                  │      
+│                  ├─notes
+│                  │      NotesFragment.java
+│                  │      NotesTitleBar.java
+│                  │      
+│                  └─views
+│                          DrawLinkView.java
+│                          ViewNode.java
+│                          ViewsFragment.java
+│                          ViewsTitleBar.java
+│                          
+└─res
+    ├─drawable
+    │      baseline_search_24.xml
+    │      ic_dashboard_black_24dp.xml
+    │      ic_home_black_24dp.xml
+    │      ic_launcher_background.xml
+    │      ic_launcher_foreground.xml
+    │      ic_notifications_black_24dp.xml
+    │      logo_4_points.xml
+    │      logo_add.xml
+    │      logo_back.xml
+    │      logo_circle_cross.xml
+    │      logo_cross.xml
+    │      logo_graph.xml
+    │      logo_home.xml
+    │      logo_notes.xml
+    │      logo_save.xml
+    │      logo_search.xml
+    │      logo_tag.xml
+    │      logo_tree.xml
+    │      logo_views.xml
+    │      note_bg.9.png
+    │      note_shape.xml
+    │      pic_chair.xml
+    │      pic_clock.xml
+    │      pic_clock_bird.xml
+    │      pic_room.xml
+    │      pic_vase_0.xml
+    │      pic_vase_1.xml
+    │      pic_vase_2.xml
+    │      pic_vase_3.xml
+    │      pic_vase_4.xml
+    │      tag_bg.9.png
+    │      
+    ├─layout
+    │      activity_editor.xml
+    │      activity_main.xml
+    │      activity_note_selector_floating.xml
+    │      chip_tag.xml
+    │      editor_title_bar.xml
+    │      fragment_home.xml
+    │      fragment_notes.xml
+    │      fragment_views.xml
+    │      notes_title_bar.xml
+    │      note_listed.xml
+    │      note_listed_in_selector.xml
+    │      note_selector_title_bar.xml
+    │      views_title_bar.xml
+    │      view_node.xml
+    │      
+    ├─menu
+    │      bottom_nav_menu.xml
+    │      editor_content_insertion_menu.xml
+    │      note_long_press_menu.xml
+    │      
+    ├─mipmap-anydpi-v26
+    │      ic_launcher.xml
+    │      ic_launcher_round.xml
+    │      
+    ├─mipmap-hdpi
+    │      ic_launcher.webp
+    │      ic_launcher_round.webp
+    │      
+    ├─mipmap-mdpi
+    │      ic_launcher.webp
+    │      ic_launcher_round.webp
+    │      
+    ├─mipmap-xhdpi
+    │      ic_launcher.webp
+    │      ic_launcher_round.webp
+    │      
+    ├─mipmap-xxhdpi
+    │      ic_launcher.webp
+    │      ic_launcher_round.webp
+    │      
+    ├─mipmap-xxxhdpi
+    │      ic_launcher.webp
+    │      ic_launcher_round.webp
+    │      
+    ├─navigation
+    │      mobile_navigation.xml
+    │      
+    ├─values
+    │      attr.xml
+    │      colors.xml
+    │      dimens.xml
+    │      strings.xml
+    │      styles.xml
+    │      themes.xml
+    │      
+    ├─values-night
+    │      themes.xml
+    │      
+    └─xml
+            backup_rules.xml
+            data_extraction_rules.xml
+            

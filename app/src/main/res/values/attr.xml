@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--  这里是用在编辑器的顶端栏的，再activity_editor的布局文件里设置了图片地址  -->
+    <declare-styleable name="editor_title_bar">
+        <attr name="imBack" format="reference" />
+        <attr name="imSave" format="reference" />
+    </declare-styleable>
+
+    <attr name="lvBackground" format="color"/>
+
+
+</resources>
